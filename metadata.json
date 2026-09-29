@@ -1,0 +1,6 @@
+{
+  "name": "MCM Roofing – Independent Family-Run Roofing",
+  "description": "Independent, family-run roofing business in Great Sutton, Ellesmere Port. Quality workmanship and quality service. 100% recommended from 110 reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
